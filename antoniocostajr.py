@@ -1,5 +1,72 @@
 #Antônio Claudio Costa Junior
+#Enunciado da avaliação:
 
+"""OBS: 
+- Escreva seu nome completo na primeira linha do programa
+- Salve o código com o seunome.py
+Competências a serem avaliadas:
+- Conhecer os comandos da linguagem
+- Saber utilizar os comandos corretamente
+- Desenvolver uma solução viável para a atividade proposta
+- Códigos iguais = D
+
+Enunciado:
+
+Você foi selecionado para a próxima etapa de um processo de 
+seleção para uma vaga de emprego.
+Para conquistar a vaga você deverá desenvolver um código
+seguindo as instruções abaixo:
+
+Na opção 1, você deverá digitar os dados necessários para
+preencher as listas com nome do aluno, sua idade e seu curso. A idade mínima aceita deverá ser 16 anos
+O curso digitado deverá ser um dos cursos da lista lst_cursos_disponiveis 
+
+Na opção 2, você deverá imprimir um relatório geral para conferência,
+imprimindo o nome do aluno, sua idade e seu curso. 
+Imprima essas informações uma ao lado da outra.
+No final, mostre o total de alunos e quantos alunos estão na 
+faixa etária entre 18 e 25 anos de idade 
+
+Na opção 3, você deverá possibilitar a troca de curso de um aluno.
+
+Na opção 4, você deverá implementar a exclusão de um aluno da lista,
+retirando também os dados correspondentes a idade e curso 
+deste aluno. 
+Sua tarefa é desenvolver o que falta no código abaixo.
+menu = ================================
+    0- Finaliza o código
+    1- Adicionar dados
+    2- Listar os dados
+    3- Alterar o curso 
+        de um aluno
+    4- Excluir um aluno
+    ================================
+"""
+"""
+lst_cursos_diponiveis = ["RDS", "ADS", "PMM", "DADOS", "SPI"]
+lst_aluno = []
+lst_idade = []
+lst_curso = []
+while True:
+    print(menu)
+    escolha = input("    Escolha: ")
+    if escolha == "0":
+        # seu código aqui
+        pass
+    if escolha == "1":
+        # seu código aqui
+        pass
+    if escolha == "2":
+        # seu código aqui
+        pass
+    if escolha == "3":
+        # seu código aqui
+        pass
+    if escolha == "4":
+        # seu código aqui
+        pass"""
+
+#Inicio do código
 import os
 from time import sleep
 
