@@ -1,3 +1,5 @@
+#Projeto feito com base no curso Crie Sua Primeira Aplicação em Python da Alura
+
 import os
 
 restaurantes = [{'nome': 'Praça', 'categoria': 'Japonesa', 'ativo': False},
